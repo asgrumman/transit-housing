@@ -14,4 +14,4 @@ I made a map that shows how public transit and affordable housing intermingle by
 ## Documents
 
 - housing_transit_Chicago.ipynb - Jupyter notebook where I housed my code
-- bokeh_plot.png - map
+- [Live version of the map](https://www.annagrumman.com/wp-content/uploads/2020/07/transit-housing-bokeh.html)
