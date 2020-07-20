@@ -13,7 +13,8 @@ I made a few maps that show how public transit and affordable housing intermingl
 
 ## Documents
 
-- housing_transit_Chicago.ipynb - Jupyter notebook where I housed my code
+- housing_transit_Chicago.ipynb - Jupyter notebook where I housed my code and step-by-step walkthrough
+- housing_transit_Chicago.py - Python script that runs the code
 - [Housing map](https://www.annagrumman.com/wp-content/uploads/2020/07/housing-bokeh.html)
 - [Housing with transit stops map](https://www.annagrumman.com/wp-content/uploads/2020/07/transit-housing.html)
 - [Scored housing and transit access map](https://www.annagrumman.com/wp-content/uploads/2020/07/transit-housing-score.html)
