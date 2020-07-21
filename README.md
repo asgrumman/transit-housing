@@ -1,7 +1,7 @@
 # Mapping Affordable Housing and Public Transit Access in Chicago
 ## Summary
 
-I made a few maps that show how public transit and affordable housing intermingle by neighborhood in Chicago using pandas, geopandas, and bokeh in Python. I also made a tutorial, which I'll post to my website soon and link here.
+I made a few maps that show how public transit and affordable housing intermingle by neighborhood in Chicago using pandas, geopandas, and bokeh in Python. I also wrote up a brief piece on the maps and the process, which is posted on my website [here](https://www.annagrumman.com/mapping-affordable-housing-and-public-transit-access-in-chicago/).
 
 ## Data
 - [Neighborhood Boundaries in Chicago](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9)
@@ -18,3 +18,4 @@ I made a few maps that show how public transit and affordable housing intermingl
 - [Housing map](https://www.annagrumman.com/wp-content/uploads/2020/07/housing-bokeh.html)
 - [Housing with transit stops map](https://www.annagrumman.com/wp-content/uploads/2020/07/transit-housing.html)
 - [Scored housing and transit access map](https://www.annagrumman.com/wp-content/uploads/2020/07/transit-housing-score-2.html)
+- [Mapping Affordable Housing and Public Transit Access](https://www.annagrumman.com/mapping-affordable-housing-and-public-transit-access-in-chicago/) - blog post that analyzes the maps and explains key steps, assumptions, and metrics I used
